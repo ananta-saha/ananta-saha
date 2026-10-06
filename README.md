@@ -1,3 +1,4 @@
+Hi, It's Ananta 👋
 # 💫 About Me:
 🔭 I’m currently working on **Web Development and Software Engineering projects**<br><br>👯 I’m looking to collaborate on **Web Applications, Software Projects, and Open-Source Projects**<br><br>🤝 I’m looking for help with **Advanced Software Engineering, System Design, and Scalable Web Applications**<br><br>🌱 I’m currently learning **Full-Stack Web Development, Software Engineering, and AI/ML**<br><br>💬 Ask me about **C++, Java, C#, PHP, MySQL, MVC, Web Development, and Software Engineering**<br><br>⚡ Fun fact: **I enjoy turning ideas into practical software and learning new technologies by building projects.**<br>
 
