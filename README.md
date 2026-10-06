@@ -13,7 +13,7 @@
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord\&logoColor=white)](https://discord.gg/qSasCBrHf) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook\&logoColor=white)](https://facebook.com/ananta.saha.223934) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram\&logoColor=white)](https://instagram.com/anantasaha06) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin\&logoColor=white)](https://linkedin.com/in/ananta-saha-08369b2a1) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube\&logoColor=white)](https://youtube.com/@AnantaSaha-c6w) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail\&logoColor=white)](mailto:anoysaha0606@gmail.com)
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ananta-saha&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=ananta-saha&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 </p>
 
 # 💻 Tech Stack:
