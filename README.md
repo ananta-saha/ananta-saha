@@ -1,3 +1,14 @@
+# 🐍 Contribution Snake:
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ananta-saha/ananta-saha/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ananta-saha/ananta-saha/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/ananta-saha/ananta-saha/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
+
+--------
 <div align="center">
 
 # Hi, It's Ananta 👋
@@ -37,16 +48,6 @@
 ![](https://streak-stats.demolab.com/?user=ananta-saha\&theme=shadow_red\&hide_border=false)<br/>
 
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=ananta-saha\&theme=shadow_red\&hide_border=false\&include_all_commits=true\&count_private=true\&layout=compact)
-
-# 🐍 Contribution Snake:
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ananta-saha/ananta-saha/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ananta-saha/ananta-saha/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/ananta-saha/ananta-saha/output/github-contribution-grid-snake.svg">
-  </picture>
-</p>
 
 ---
 
