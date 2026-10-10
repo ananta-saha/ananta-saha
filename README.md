@@ -8,18 +8,6 @@
   <img src="https://komarev.com/ghpvc/?username=ananta-saha&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 </p>
 
-# 🐍 Contribution Snake:
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ananta-saha/ananta-saha/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ananta-saha/ananta-saha/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/ananta-saha/ananta-saha/output/github-contribution-grid-snake.svg">
-  </picture>
-</p>
-
---------
-
 </div>
 
 # 💫 About Me:
